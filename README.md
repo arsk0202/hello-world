@@ -2,3 +2,4 @@
 # 2023ソフトウェア工学演習
 2023/7/4
 git/github 演習
+[git学習メモ](https://github.com/arsk0202/hello-world/blob/main/git-tutorial.md)
